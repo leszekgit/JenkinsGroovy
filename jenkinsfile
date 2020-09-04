@@ -4,6 +4,7 @@ node {
     }
     stage('Build') {
         echo 'Building....'
+	echo 'Building new feeature'
     }
     stage('Test') {
         echo 'Testing....'
